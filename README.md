@@ -8,9 +8,9 @@ Criar uma Landing Page de ecommerce com um campo de subscribe email.
 
 # Stacks usados
 
--Html
--CSS
--Bootstrap
+- Html
+- CSS
+- Bootstrap
 
 # Check it here
 
